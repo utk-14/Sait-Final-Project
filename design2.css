@@ -15,7 +15,7 @@ div{
 #img1{
     height:220px;
     width:350px;
-    background-image: url("shoes.webp");
+    background-image: url("shoe1.jpeg");
     text-align: center;
     border:0.5px solid black;
     margin-left: 30px;
@@ -30,7 +30,7 @@ div{
     margin-left: 55px;
 }
 #arrival{
-    font-family: Arial, Helvetica, sans-serif;
+    
     
     display:flex ;
     justify-content: center;
