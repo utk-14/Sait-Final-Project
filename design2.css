@@ -1,6 +1,6 @@
 p{
     display: inline;padding-left: 15px;
-    font-size: 9px;
+    font-size: 20px;
 }
 body{
     background-color: white;
@@ -19,6 +19,7 @@ div{
     text-align: center;
     border:0.5px solid black;
     margin-left: 30px;
+
     
 }
 #img2{
@@ -39,6 +40,7 @@ div{
     display:flex;
     justify-content:center;
     font-style: math sans;
+    
 }
 #shoe1{
     height:100px;
@@ -74,7 +76,7 @@ div{
     
 }
 figcaption{
-    font-size: 10px;
+    font-size: 15px;
  text-align: center;
 }
 li{
